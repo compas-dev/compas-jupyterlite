@@ -49,3 +49,6 @@ bqplot
 
 # Python: threejs bridge
 pythreejs>=2.3.0
+
+# COMPAS?
+compas>=2.0.0b2
